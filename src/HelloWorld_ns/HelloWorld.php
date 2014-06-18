@@ -1,6 +1,6 @@
 <?php 
 
-namespace HelloWorld;
+namespace HelloWorld_ns;
 
 //Classname must be the same with filename?
 //How about namespace name? See PRS-0
