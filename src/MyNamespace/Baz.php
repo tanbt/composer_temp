@@ -1,10 +1,10 @@
 <?php 
 
-namespace Foo;
+namespace MyNamespace;
 
 class Baz
 {
-    public static function hello()
+    public function hello()
     {
         return 'Hello World, I\'m baz class.!';
     }
