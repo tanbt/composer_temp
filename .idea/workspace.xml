@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69556edc-9826-4a25-bc0b-78608c9b032a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Baz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Baz.php" afterPath="$PROJECT_DIR$/test/Baz.php" />
     </list>
     <ignored path="composer_temp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.72240806" vertical-offset="0" max-vertical-offset="598">
+            <state line="24" column="0" selection-start="520" selection-end="520" vertical-scroll-proportion="0.72240806" vertical-offset="0" max-vertical-offset="598">
               <folding />
             </state>
           </provider>
@@ -284,13 +283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/Baz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.36120403" vertical-offset="0" max-vertical-offset="598">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ParrentNS/MyNS/BazThird.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.36120403" vertical-offset="0" max-vertical-offset="598">
@@ -298,9 +290,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/Baz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="42" selection-start="117" selection-end="117" vertical-scroll-proportion="0.24615385" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.72240806" vertical-offset="0" max-vertical-offset="598">
+        <state line="24" column="0" selection-start="520" selection-end="520" vertical-scroll-proportion="0.72240806" vertical-offset="0" max-vertical-offset="598">
           <folding />
         </state>
       </provider>
