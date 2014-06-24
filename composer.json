@@ -13,11 +13,11 @@
     },
     "autoload": {
         "psr-0": {
-             "MyNamespace\\": ["src/", "test/"],
+            "MyNamespace\\": ["src/", "test/"],
 		    "MySecondNS": "src/",
 		    "ParrentNS\\MyNS": "src/"
 	    },
-	"psr-4": {"Foo\\": "src/",
+	    "psr-4": {"Foo\\": "src/",
             "Foo\\Test\\": "test/"
         }
     }
