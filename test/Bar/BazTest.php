@@ -1,6 +1,6 @@
 <?php 
 
-namespace MyNamespace;
+namespace Foo;
 
 class BazTest
 {
